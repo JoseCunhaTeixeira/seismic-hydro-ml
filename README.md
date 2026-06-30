@@ -7,4 +7,4 @@ Daily 2D maps extrapolated across a seismic array using an unique piezometric da
 
 ![Figure5](https://github.com/JoseCunhaTeixeira/MLP_GWT_prediction/assets/148117375/9680214f-6188-4328-a106-f9a48f338828)
 
-Paper (here)[https://doi.org/10.1029/2024WR037706]
+Paper [here](https://doi.org/10.1029/2024WR037706)
