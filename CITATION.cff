@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below, and cite the associated paper for the underlying method."
+type: software
+title: "seismic-hydro-ml"
+abstract: "Predicting groundwater table level maps from seismic surface-wave dispersion curves using a Multilayer Perceptron trained on real field data."
+authors:
+  - family-names: "Cunha Teixeira"
+    given-names: "José"
+repository-code: "https://github.com/JoseCunhaTeixeira/seismic-hydro-ml"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Physics-Guided Deep Learning Model for Daily Groundwater Table Maps Estimation Using Passive Surface-Wave Dispersion"
+  authors:
+    - family-names: "Cunha Teixeira"
+      given-names: "José"
+    - family-names: "Bodet"
+      given-names: "Ludovic"
+    - family-names: "Rivière"
+      given-names: "Agnès"
+    - family-names: "Hallier"
+      given-names: "Amélie"
+    - family-names: "Gesret"
+      given-names: "Alexandrine"
+    - family-names: "Dangeard"
+      given-names: "Marine"
+    - family-names: "Dhemaied"
+      given-names: "Amine"
+    - family-names: "Boisson Gaboriau"
+      given-names: "Joséphine"
+  journal: "Water Resources Research"
+  volume: 61
+  issue: 1
+  year: 2025
+  doi: "10.1029/2024WR037706"
+  url: "https://doi.org/10.1029/2024WR037706"
